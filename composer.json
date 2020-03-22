@@ -1,0 +1,24 @@
+{
+  "name": "antiquete/sql-wrapper",
+  "description": "A simple wrapper for MySql.",
+  "type": "library",
+  "keywords": [
+    "database",
+    "sql",
+    "mysql",
+    "wrapper"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Hari Saksena",
+      "email": "hari.mail@protonmail.ch"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Antiquete\\Sql-Wrapper\\": "src/"
+    }
+  }
+}
