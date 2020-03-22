@@ -18,7 +18,7 @@
   "require": {},
   "autoload": {
     "psr-4": {
-      "Antiquete\\Sql-Wrapper\\": "src/"
+      "Antiquete\\SQLWrapper\\": "src/"
     }
   }
 }
